@@ -1,0 +1,16 @@
+.statistics-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    min-height: 100vh;
+}
+
+.chart-container{
+    margin-top: 10px;
+}
+.bar-chart-heading{
+    text-align: center;
+    margin-bottom: 20px;
+}

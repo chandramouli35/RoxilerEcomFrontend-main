@@ -1,0 +1,12 @@
+.paichart-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    min-height: 100vh;
+}
+.chart-heading{
+    text-align: center;
+}
+

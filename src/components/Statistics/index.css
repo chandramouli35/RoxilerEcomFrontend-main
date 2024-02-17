@@ -1,0 +1,43 @@
+.statistics-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    min-height: 100vh;
+}
+.card-container{
+    background-color: rgba(165, 208, 244, 0.856);
+    width: 400px;
+    height: 260px;
+    border-radius: 10px;
+    /* margin-top: 50px; */
+}
+.stats-heading{
+    text-align: center;
+    padding: 15px;
+}
+.stats-tag{
+    padding-left: 15px;
+    margin-left: 20px;
+    
+}
+.stats-tag:hover{
+    color: rgb(178, 79, 33);
+    cursor: pointer;
+}
+.sale-span{
+    padding-left: 25px;
+}
+.sold-span{
+    padding-left: 40px;
+}
+.not-sold-span{
+    padding-left: 8px;
+}
+span{
+    font-weight: bold;
+}
+.stats-container{
+    margin-top: 30px;
+}
